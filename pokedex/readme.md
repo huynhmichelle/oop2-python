@@ -11,7 +11,7 @@ We queried from [PokeAPI](https://pokeapi.co/) to get
 information about the Pokemon universe.
 
 Our UML class diagram for this assignment can be found 
-[here](https://github.com/huynhmichelle/oop2-python/pokedex/blob/master/a3_uml_class_diagram.png).
+[here](https://github.com/huynhmichelle/oop2-python/blob/master/pokedex/a3_uml_class_diagram.png).
 
 ## How the program works
 In this program, users can query information about a Pokemon,
