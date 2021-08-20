@@ -1,4 +1,4 @@
-# COMP3522_Assignment3_A01165938_A01161142
+# Object-Oriented Pokedex
 
 ## Overview
 A Pokedex is a useful device for trainers in the 
